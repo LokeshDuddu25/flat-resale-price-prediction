@@ -8,7 +8,7 @@ This project demonstrates **end-to-end ML deployment**, from data preprocessing 
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Flat resale prices depend on multiple factors such as:
 - Location (town & street)
@@ -23,35 +23,35 @@ This application helps users **instantly estimate resale prices** using a traine
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🔐 Authentication
+###  Authentication
 - User **Login & Registration**
 - Password hashing for security
 - SQLite database (demo purpose)
 - Logout functionality
 
-### 📊 Prediction System
+###  Prediction System
 - ML-powered price prediction
 - Handles multiple user inputs
 - Real-time inference
 - Styled prediction output for clarity
 
-### 🎨 User Interface
+###  User Interface
 - Clean and responsive Streamlit UI
 - Background image styling
 - Dropdown placeholders for better UX
 - Text-based explanations rendered cleanly
 - Predict & Logout buttons aligned professionally
 
-### ☁️ Deployment
+###  Deployment
 - Code hosted on **GitHub**
 - Application deployed on **Streamlit Community Cloud**
 - Publicly accessible web interface
 
 ---
 
-## 🧠 Machine Learning Details
+##  Machine Learning Details
 
 - **Model Used:** XGBoost Regressor
 - **Input Features:**
@@ -73,7 +73,7 @@ This application helps users **instantly estimate resale prices** using a traine
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - Streamlit
@@ -92,4 +92,5 @@ This application helps users **instantly estimate resale prices** using a traine
 ### Deployment
 - GitHub
 - Streamlit Community Cloud
+
 
