@@ -1,0 +1,15 @@
+The Storey Range indicates the floor level on which a flat is located — for example, “01–03”, “07–09”, or “13–15”.
+
+Higher storey ranges often mean better views, more privacy, and less noise, leading to slightly higher resale prices.
+
+🧩 Meaning
+
+Each storey range represents a group of floors, not a single floor.
+For instance:
+
+“01–03” → Ground to 3rd floor
+
+“07–09” → 7th to 9th floor
+
+“13–15” → 13th to 15th floor
+

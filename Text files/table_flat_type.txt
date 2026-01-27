@@ -1,0 +1,8 @@
+Type of Room|Description
+1 BHK|Smallest unit type, typically includes a single living/sleeping area, kitchen, and bathroom. Suitable for singles or elderly residents.
+2 BHK|Compact unit with a bedroom, living area, kitchen, and bathroom. Affordable and ideal for couples or small households.
+3 BHK|Standard family flat with two bedrooms, a living room, kitchen, and bathroom. Offers a balance between space and price.
+4 BHK|One of the most common flat types. Includes three bedrooms, a spacious living/dining area, kitchen, and bathrooms — ideal for families.
+5 BHK|Larger layout with an additional bedroom or extended living area. Highly preferred by medium to large families.
+EXECUTIVE|Premium flat with more spacious living and dining areas. Usually comes with a study room or extended living space.
+MULTI GENERATION|Designed for extended families; includes separate living areas or additional rooms to accommodate multiple generations under one roof.

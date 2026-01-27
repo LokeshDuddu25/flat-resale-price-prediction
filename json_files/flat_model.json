@@ -1,0 +1,23 @@
+{
+    "IMPROVED": 1,
+    "NEW GENERATION": 2,
+    "MODEL A": 3,
+    "STANDARD": 4,
+    "SIMPLIFIED": 5,
+    "MODEL A-MAISONETTE": 6,
+    "APARTMENT": 7,
+    "MAISONETTE": 8,
+    "TERRACE": 9,
+    "2-ROOM": 10,
+    "IMPROVED-MAISONETTE": 11,
+    "MULTI GENERATION": 12,
+    "PREMIUM APARTMENT": 13,
+    "ADJOINED FLAT": 14,
+    "PREMIUM MAISONETTE": 15,
+    "MODEL A2": 16,
+    "TYPE S1": 17,
+    "TYPE S2": 18,
+    "DBSS": 19,
+    "PREMIUM APARTMENT LOFT": 20,
+    "3GEN": 21
+}

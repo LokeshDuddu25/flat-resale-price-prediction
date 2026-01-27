@@ -1,0 +1,14 @@
+Building type,Basic information
+STANDARD,Basic or early HDB design with standard fittings and layouts. Usually the oldest model.
+IMPROVED,Updated layout and separate bathrooms; more efficient use of space than Standard.
+NEW GENERATION,Introduced in the 1980s with better ventilation and room layout.
+MODEL A,Larger units with improved design and more spacious bedrooms and living areas.
+MODEL A-MAISONETTE /IMPROVED-MAISONETTE, Two-storey flats with bedrooms upstairs and living space below. Highly valued for space.
+APARTMENT / PREMIUM APARTMENT / PREMIUM MAISONETTE,Higher-end flats with better interior finishes and materials.
+SIMPLIFIED,Compact and budget-friendly design with smaller space and combined bathrooms.
+TERRACE,Rare groundfloor units with outdoor terrace areas.
+ADJOINED FLAT,Two flats combined into a single or larger unit.
+MULTI GENERATION / 3GEN,Designed for multi-generation families with additional rooms or separate living areas.
+DBSS (Design Build and Sell Scheme),Built by private developers with modern facilities and premium finishes.
+MODEL A2 / TYPE S1 / TYPE S2,Later variations of Model A and Executive flats with larger layouts and flexible design options.
+PREMIUM APARTMENT LOFT,Luxury variant featuring high ceilings and open loft-style designs.

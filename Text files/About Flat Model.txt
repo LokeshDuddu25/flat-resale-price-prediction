@@ -1,0 +1,3 @@
+The Flat Model describes the design, layout, and generation of an HDB(Housing & Development Board) flat.
+
+🧩 Common Flat Models and Their Meanings
