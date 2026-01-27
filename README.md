@@ -1,6 +1,7 @@
 # 🏢 Flat Resale Price Prediction – Streamlit Web Application
 
-A full-stack **machine learning web application** that predicts flat resale prices based on location, flat configuration, lease details, and property characteristics.  
+A full-stack **machine learning web application** that predicts flat resale prices based on location, flat configuration, lease details, and property characteristics.
+
 The application provides a clean UI, secure login system, and real-time predictions using a trained ML model.
 
 This project demonstrates **end-to-end ML deployment**, from data preprocessing and model training to frontend deployment on the cloud.
@@ -91,3 +92,4 @@ This application helps users **instantly estimate resale prices** using a traine
 ### Deployment
 - GitHub
 - Streamlit Community Cloud
+
