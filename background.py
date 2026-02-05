@@ -4,9 +4,13 @@ import base64
 
 BASE_DIR = Path(__file__).resolve().parent
 
-def background():
+@st.cache_resource
+def load_background():
     img_path = BASE_DIR / "assets" / "background.jpg"
-    encoded = base64.b64encode(img_path.read_bytes()).decode()
+    return base64.b64encode(img_path.read_bytes()).decode()
+
+def background():
+    encoded = load_background()
 
     st.markdown(
         f"""
